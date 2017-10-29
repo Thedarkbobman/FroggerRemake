@@ -1,2 +1,2 @@
 # FroggerRemake
-Something I made in 9th grade
+This is the first game I had ever made.
